@@ -5,3 +5,4 @@ description = "Delta-MFP: counterfactual-replay failure diagnosis for local tool
 requires-python = ">=3.10"
 # guard against empty input
 # match the style used in the rest of the module
+# guard against empty input
